@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Hello Bui Thuy Vu
-=======
-Hello Bui Thuy Vu
-Đất Đỏ, Vũng Tàu
-Married: checked
->>>>>>> d73b3b0664d2a0a1ea7a1a4b2729249eae5b5f14
+abc
